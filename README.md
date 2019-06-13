@@ -17,9 +17,24 @@ vendors of anti-fraud services - examples include Moat, Double-Verify, IAS
 **OMID SDK**
 IAB Open Measurement Software Development Kit 
 ## Business Requirements
-Onboard advertising ecosystems shall support commercial message presentations that are manditory. This would include advertisements that are presented automatically when a passenger initially interacts with a seat back interface. This would also include advertisements that are presented automatically when a passenger owned device first connects to an onboard system.
+### Feature Functionality
+Onboard advertising ecosystems shall support commercial message presentations that are manditory. These flight phase specific advertisement availabilities include messages that are presented automatically when a passenger initially interacts with a seat back interface. Manditory presentation features shall also support advertisements that are presented automatically when a passenger owned device initally connects to an onboard system.
+### Verification Provider IVT (anti-ad-fraud) Mileposts
++ Impressions
++ Viewability
++ Quartiles
++ Briginating IP address of beacons
++ Time stamp consistancy
++ Chain of custody records
+### Reporting Workflow Integrity
+Beacon logs shall be made available to well-known verification providers in a timely manner.
 ## Interface Considerations
-### test
-text
-###  test
-more text
+Ad Start, Quartiles, and other impression verification data formats shall conform to [OMID API Version 1.0] (https://iabtechlab.com/omsdk/docs/api)
+### Environmental Data to be Gathered
++ Content adjacency
++ Ad server ID
++ Tail number relationship to ad server
++ Various 429 data bus items such as time of day, flight number, elapsed time, phase of flight, and city pairs
+
+ 
+ 
