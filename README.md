@@ -15,7 +15,7 @@ This specification establishes commonality between various onboard advertising w
 **Well-Known Verification Providers:**
 vendors of anti-fraud services - examples include Moat, Double-Verify, IAS
 
-**OMID SDK: **
+**OMID SDK:**
 IAB Open Measurement Software Development Kit 
 ## Business Requirements
 ### Feature Functionality
