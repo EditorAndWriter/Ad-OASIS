@@ -6,6 +6,7 @@ The onboard advertising marketplace intrinsicaly encompases a diversity of metad
 	<img src="Figures/General Architecture.png" />
 	<figcaption>Figure 1: Numerous Interfaces</figcaption>
 </figure>
+
 Mainstream advertisers often seek automated access to the total available market (TAM). Uniform specifications will increase the attractiveness of our individual publishers' inventory.
 ## Scope
 This specification establishes commonality between various implementations of an onboard advertising workflow. Implementation consistancy will facilitate relationships with other entities in the advertising industry workflow such as well-known verification providers.
