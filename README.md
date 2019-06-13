@@ -1,8 +1,12 @@
 # Ad-OASIS
 Requirements for verifiable OMID SDK caching of onboard ad impression beacons
 ## Introduction
-The onboard advertising marketplace intrinsicaly incorporates a diversity of metadata interfaces.
-
+The onboard advertising marketplace intrinsicaly encompases a diversity of metadata interfaces.
+<figure>
+	<img src="Figures/General Architecture.png" />
+	<figcaption>Figure 1: Numerous Interfaces</figcaption>
+</figure>
+Mainstream advertisers often seek automated access to the total available market (TAM). Uniform specifications will increase the attractiveness of our individual publishers' inventory.
 ## Scope
 This specification establishes commonality between various implementations of an onboard advertising workflow. Implementation consistancy will facilitate relationships with other entities in the advertising industry workflow such as well-known verification providers.
 ## Terms and Definitions  
