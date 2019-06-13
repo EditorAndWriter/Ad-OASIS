@@ -39,6 +39,6 @@ Ad Start, Quartiles, and other impression verification data formats shall confor
 + Various 429 data bus items such as time of day, flight number, elapsed time, phase of flight, and city pairs
 + Chain of custody records
 ### Reporting Workflow Integrity
-Beacon logs shall be made available to well-known verification providers in a timely manner.
+Beacon logs shall be made accessible to well-known verification providers in a timely manner.
 
  
