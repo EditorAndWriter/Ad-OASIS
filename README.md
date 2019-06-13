@@ -62,17 +62,8 @@ Ad Start, Quartiles, and other impression verification data formats shall confor
 + Ad server ID
 + Tail number relationship to ad server
 + Various 429 data bus items such as time of day, flight number, elapsed time, phase of flight, and city pairs
-
 + Chain of custody records
 ### Reporting Workflow Integrity
 Beacon logs shall be made available to well-known verification providers in a timely manner.
-## Interface Considerations
-Ad Start, Quartiles, and other impression verification data formats shall conform to [OMID API Version 1.0] (https://iabtechlab.com/omsdk/docs/api)
-### Environmental Data to be Gathered
-+ Content adjacency
-+ Ad server ID
-+ Tail number relationship to ad server
-+ Various 429 data bus items such as time of day, flight number, elapsed time, phase of flight, and city pairs
 
- 
  
