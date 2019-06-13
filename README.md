@@ -12,9 +12,10 @@ Because mainstream advertisers often seek automated access to the total availabl
 ## Scope
 This specification establishes commonality between various implementations of an onboard advertising workflow. Implementation consistancy will facilitate relationships with other entities in the advertising industry workflow such as well-known verification providers.
 ## Terms and Definitions  
-**Well-Known Verification Providers**
+**Well-Known Verification Providers:**
 vendors of anti-fraud services - examples include Moat, Double-Verify, IAS
-**OMID SDK**
+
+**OMID SDK: **
 IAB Open Measurement Software Development Kit 
 ## Business Requirements
 ### Feature Functionality
